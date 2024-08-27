@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Dashboard</title>
+    <style>
+        .pie{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="pie">
+        <h2>Pie Chart</h2>
+        <img th:src="'data:image/png;base64,' + ${chart}" alt="Pie Chart"/>
+    </div>
+</body>
+</html>
