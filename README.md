@@ -2,7 +2,7 @@
 Prerequisites
 Before running this project, make sure you have the following installed on your system:
 
-# Java Development Kit (JDK) - Version 11 or higher
+# Java Development Kit (JDK)
 Download from Oracle or AdoptOpenJDK.
 Verify installation by running java -version in your terminal.
 
