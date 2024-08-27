@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.chart3</groupId>
-	<artifactId>chart3.0</artifactId>
+	<artifactId>Pie_Chart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chart3.0</name>
+	<name>Pie Chart</name>
 	<description>this practical includes JWT Authentication</description>
 	<url />
 	<licenses>
